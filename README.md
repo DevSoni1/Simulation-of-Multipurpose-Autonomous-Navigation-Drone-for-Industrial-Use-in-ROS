@@ -6,6 +6,8 @@ In inventory applications, drones play a major role to detect the types of objec
 
 
 
-**Click on below image**
+
+
+**Click on image**
 
 [![Simulation-of-Multipurpose-Autonomous-Navigation-Drone-for-Industrial-Use-in-ROS](https://img.youtube.com/vi/mShEVh7AtZg/0.jpg)](https://www.youtube.com/watch?v=mShEVh7AtZg)
